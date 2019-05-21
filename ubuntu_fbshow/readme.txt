@@ -1,4 +1,5 @@
 steps to run on ubuntu
+vbox add 1
 
 1£¬ubuntu °²×°fbset
 sudo apt-get install fbset
