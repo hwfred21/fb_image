@@ -1,3 +1,5 @@
+steps to run on ubuntu
+
 1，ubuntu 安装fbset
 sudo apt-get install fbset
 
@@ -18,7 +20,6 @@ r[16-23]
 2，gcc fb_show.c
 
 ./a.out test1.fb
-
 
 3,显示图片，怎样切换正常的PC桌面？
 ctrl+alt+f7 切回来
